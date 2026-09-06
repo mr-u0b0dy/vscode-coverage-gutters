@@ -4,7 +4,7 @@ export enum CoverageType {
     CLOVER,
     COBERTURA,
     JACOCO,
-    LLVM_COV_JSON, // LLVM coverage JSON format
+    LLVM,
 }
 
 export class CoverageFile {
